@@ -53,7 +53,7 @@ config/initializers/secret_token.rb
 
 ## Environment normalization:
 /.bundle
-vendor/bundle
+/vendor/bundle
 
 ### Ruby ###
 *.gem
